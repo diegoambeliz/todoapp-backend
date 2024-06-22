@@ -1,10 +1,9 @@
 # To-Do App Backend
 
-This repository contains the backend code for the To-Do App, developed using C# ASP.NET and SQL Server. The backend provides robust and secure data management, handling user authentication and task operations.
+This repository contains the backend code for the To-Do App, developed using C# ASP.NET and SQL Server.
 
 ## Features
 
-- User authentication
 - Task creation, updating, and deletion
 - Secure database interactions
 - Scalable architecture
