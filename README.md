@@ -48,7 +48,7 @@ This repository contains the backend code for the To-Do App, developed using C# 
 ### Running the Application
 
 
-2. Start the application:
+1. Start the application:
     ```bash
     dotnet run
     ```
