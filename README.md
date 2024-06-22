@@ -47,10 +47,7 @@ This repository contains the backend code for the To-Do App, developed using C# 
 
 ### Running the Application
 
-1. Apply database migrations:
-    ```bash
-    dotnet ef database update
-    ```
+
 2. Start the application:
     ```bash
     dotnet run
