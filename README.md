@@ -12,7 +12,7 @@ This repository contains the backend code for the To-Do App, developed using C# 
 
 - C# ASP.NET
 - SQL Server
-- Entity Framework
+- Dapper
 
 ## Getting Started
 
